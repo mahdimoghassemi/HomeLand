@@ -163,6 +163,10 @@ Visit `http://localhost:8000/admin` and log in using the superuser credentials y
 - **PUT** `/api/orders/:id/pay/`: Update order to paid
 - **PUT** `/api/orders/:id/deliver/`: Update order to delivered
 
-## License
+## Contributing
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to submit issues, create pull requests, or suggest improvements. 
+
+## Contact
+
+For any questions or support, please contact mahdimoghassemi@gmail.com.
